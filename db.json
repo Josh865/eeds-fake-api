@@ -4,113 +4,113 @@
       "PassID": 1417,
       "Name": "Stacey Johnson",
       "Sponsor_Name": "Meharry Medical College",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": true,
+      "Is_Active": false
     },
     {
       "PassID": 2233,
       "Name": "Stacey Samuels",
       "Sponsor_Name": "UCSF Medical Center",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": true,
+      "Is_Active": true
     },
     {
       "PassID": 1606,
       "Name": "Stacey Seipel",
       "Sponsor_Name": "Carolinas HealthCare System/Charlotte AHEC",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": false,
+      "Is_Active": false
     },
     {
       "PassID": 3898,
       "Name": "Staci Iizumi",
       "Sponsor_Name": "Children's Hospital Los Angeles",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": false,
+      "Is_Active": false
     },
     {
       "PassID": 1850,
       "Name": "Staci Leitner",
       "Sponsor_Name": "UC Davis Health",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": false,
+      "Is_Active": false
     },
     {
       "PassID": 4793,
       "Name": "Stacie Fogelberg",
       "Sponsor_Name": "University of Kansas Medical Center",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": true,
+      "Is_Active": true
     },
     {
       "PassID": 2486,
       "Name": "Stacy Atkinson",
       "Sponsor_Name": "North American Institute for Continuing Education",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": false,
+      "Is_Active": true
     },
     {
       "PassID": 2344,
       "Name": "Stacy Atkinson",
       "Sponsor_Name": "Albert Einstein College of Medicine-Montefiore Medical Center",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": false,
+      "Is_Active": true
     },
     {
       "PassID": 4753,
       "Name": "Stacy Atkinson 2",
       "Sponsor_Name": "Albert Einstein College of Medicine-Montefiore Medical Center",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": false,
+      "Is_Active": false
     },
     {
       "PassID": 945,
       "Name": "Stacy Buckley",
       "Sponsor_Name": "KUMC",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": true,
+      "Is_Active": false
     },
     {
       "PassID": 4978,
       "Name": "Stacy Cavender",
       "Sponsor_Name": "Ascension Macomb-Oakland Hospital",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": true,
+      "Is_Active": true
     },
     {
       "PassID": 2829,
       "Name": "Stacy Dougherty",
       "Sponsor_Name": "Maimonides Medical Center",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": true,
+      "Is_Active": true
     },
     {
       "PassID": 636,
       "Name": "Stacy Picek",
       "Sponsor_Name": "KUMC",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": true,
+      "Is_Active": true
     },
     {
       "PassID": 3416,
       "Name": "Stacy Sawtelle, MD",
       "Sponsor_Name": "Community Medical Centers",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "N"
+      "Is_Full_Sponsor": true,
+      "Is_Active": false
     },
     {
       "PassID": 5379,
       "Name": "Stacy Snyder",
       "Sponsor_Name": "Penn State College of Medicine",
-      "Is_Full_Sponsor": "Y",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": true,
+      "Is_Active": true
     },
     {
       "PassID": 328,
       "Name": "Stacy Wise",
       "Sponsor_Name": "Mountain AHEC",
-      "Is_Full_Sponsor": "N",
-      "Is_Active": "Y"
+      "Is_Full_Sponsor": false,
+      "Is_Active": true
     }
   ],
   "participants": [
